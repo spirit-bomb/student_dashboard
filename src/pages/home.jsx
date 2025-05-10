@@ -1,5 +1,5 @@
 import { useState } from "react";
-import StudentForm from "../components/StudentForm";
+import StudentForm from "../components/studentForm";
 import StudentCard from "../components/card";
 import { fetchStudents } from "../api/data";
 import { useEffect } from "react";
